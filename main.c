@@ -3,6 +3,8 @@
 #include <SDL3/SDL_main.h>
 
 //add standard things
+#include <stdio.h>
+#include <stdbool.h>
 #include <stdlib.h>
 
 int main(int argc, char* argv[])
